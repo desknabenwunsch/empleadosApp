@@ -1,0 +1,32 @@
+.img {
+    width: 90%;
+    height: 90%;
+}
+
+mat-radio-button {
+    padding-left: 15%;
+}
+
+button {
+    border-style: none;
+}
+
+.example-container {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.fontGrower{    
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.radioStyle {
+    margin: 5px 10px 5px 10px;
+}
+
+.requiredMsj{
+    color: red;
+    font-size: 12px;
+    margin-top: -32px;
+}
